@@ -1,4 +1,4 @@
-# ☁️ AWS Projects Portfolio
+# ☁️ AWS Projects
 
 This repository is a curated collection of **AWS automation projects and case studies** showcasing how to leverage Amazon Web Services for building scalable, secure, and efficient cloud solutions.  
 
